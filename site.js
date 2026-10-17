@@ -64,7 +64,7 @@ const copy = {
     testimonial3: "Обидві сторони мають однакову точку відліку, і на дрібні питання набагато легше відповісти.", testimonial3Role: "Орендодавиця", testimonial3Meta: "Хоче чіткої та чесної передачі житла",
     downloadEyebrow: "Готові, коли готові ви", downloadTitle: "Збережіть докази. Позбудьтеся невизначеності.",
     downloadText: "TenantProof створений для iOS та Android — з однаково зрозумілим процесом на обох платформах.",
-    storeSoon: "Незабаром у", footerPrivacy: "Політика конфіденційності", footerPrivacyUa: "Privacy policy англійською", footerFeatures: "Можливості",
+    storeSoon: "Завантажити", footerPrivacy: "Політика конфіденційності", footerPrivacyUa: "Privacy policy англійською", footerFeatures: "Можливості",
     footerMeta: "TenantProof документує зафіксований користувачем стан орендованого житла. Додаток не робить юридичних висновків. Технічна підтримка: vnickua@gmail.com"
   }
 };
